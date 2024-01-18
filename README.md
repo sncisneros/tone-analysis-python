@@ -1,2 +1,2 @@
 # tone-analysis-python
- basic sentiment analysis tool 
+ very basic sentiment analysis tool created using python
